@@ -1,0 +1,25 @@
+|testandoDisplay
+a[0] => Mult0.IN5
+a[0] => Equal0.IN1
+a[0] => Equal1.IN1
+a[0] => Equal2.IN0
+a[1] => Mult0.IN4
+a[1] => Equal0.IN0
+a[1] => Equal1.IN0
+a[1] => Equal2.IN1
+a1 <= seteSegmentos1~2.DB_MAX_OUTPUT_PORT_TYPE
+b1 <= <VCC>
+c1 <= seteSegmentos1~3.DB_MAX_OUTPUT_PORT_TYPE
+d1 <= seteSegmentos1~4.DB_MAX_OUTPUT_PORT_TYPE
+e1 <= seteSegmentos1~5.DB_MAX_OUTPUT_PORT_TYPE
+f1 <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+g1 <= seteSegmentos1~6.DB_MAX_OUTPUT_PORT_TYPE
+a2 <= seteSegmentos2~2.DB_MAX_OUTPUT_PORT_TYPE
+b2 <= seteSegmentos2~3.DB_MAX_OUTPUT_PORT_TYPE
+c2 <= seteSegmentos2~4.DB_MAX_OUTPUT_PORT_TYPE
+d2 <= seteSegmentos2~5.DB_MAX_OUTPUT_PORT_TYPE
+e2 <= seteSegmentos2~6.DB_MAX_OUTPUT_PORT_TYPE
+f2 <= seteSegmentos2~7.DB_MAX_OUTPUT_PORT_TYPE
+g2 <= Equal3.DB_MAX_OUTPUT_PORT_TYPE
+
+
