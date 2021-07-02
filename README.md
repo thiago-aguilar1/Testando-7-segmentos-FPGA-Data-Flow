@@ -35,3 +35,10 @@ endmodule
 
 
 ```
+
+
+![Forma de onda](https://github.com/thiago-aguilar1/Testando-7-segmentos-FPGA-Data-Flow/blob/main/image.png)
+
+
+
+
