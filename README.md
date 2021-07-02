@@ -40,5 +40,11 @@ endmodule
 ![Forma de onda](https://github.com/thiago-aguilar1/Testando-7-segmentos-FPGA-Data-Flow/blob/main/image.png)
 
 
+## Observação:
+
+ * Projeto teste para um [projeto maior](https://github.com/thiago-aguilar1/Mutiplier-and-Display-7-FPGA-Dataflow-Modeling), em que nos foi imposto a tarefa de implementar um multiplicador que apresente o valor de entrada e o valor do produto em displays de 7 segmentos, com o desafio de usar **apenas** a modelagem por fluxo de dados (Data Flow Modeling).
+ * Neste projeto teste,  uma entrada de 2 bits é multiplicada por 2. O valor da entrada é apresentada em um display de 7 segmentos, e o valor do produto é apresentado em outro display de 7 segmentos.
+
+
 
 
